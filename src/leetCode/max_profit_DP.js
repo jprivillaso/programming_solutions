@@ -1,28 +1,7 @@
-var maxProfit3 = function(prices) {
-
-  let minPrices = [];
-  for (let i = 0; i < prices.length; ++i) {
-    if (i - 1 < 0) {
-      minPrices.push(prices[i]);
-    } else {
-      minPrices.push(Math.min(prices[i], minPrices[i - 1]));
-    }
-  }
-
-  let maxProfitVal = Number.MIN_SAFE_INTEGER;
-
-  for (let i = 0; i < prices.length; ++i) {
-
-    let max = prices[i];
-    let min = minPrices[i];
-    maxProfitVal = Math.max(maxProfitVal, max - min);
-
-  }
-
-  return maxProfitVal;
-
-};
-
+/**
+ * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ * @param {*} prices
+ */
 var maxProfit = function(prices) {
 
   if (prices.length < 2) return 0;

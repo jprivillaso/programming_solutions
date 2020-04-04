@@ -1,3 +1,7 @@
+/**
+ * https://leetcode.com/problems/valid-parentheses/
+ * @param {*} s
+ */
 var isValid = function(s) {
 
   const tokensMap = {

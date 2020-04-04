@@ -1,10 +1,18 @@
+/**
+ * https://leetcode.com/problems/reverse-string-ii/
+ *
+ * @param {string} s
+ * @param {number} k
+ * @return {string}
+ */
+
 function reverse(arr, start, end) {
 
   for (let i = start, j = end; i <= j; ++i, --j) {
 
-    const temp = arr[i];
-    arr[i] = arr[j];
-    arr[j] = temp;
+      const temp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = temp;
 
   }
 
@@ -27,11 +35,3 @@ var reverseStr = function(s, k) {
   return tokenized.join('');
 
 };
-
-console.log(reverseStr('abcdefg', 2));
-console.log(reverseStr('abcd', 2));
-console.log(reverseStr('abcdef', 2));
-console.log(reverseStr('abcdefghijklmnop', 3));
-console.log(reverseStr('abcdefg', 8));
-console.log(reverseStr('abcdefgh', 8));
-console.log(reverseStr('hyzqyljrnigxvdtneasepfahmtyhlohwxmkqcdfehybknvdmfrfvtbsovjbdhevlfxpdaovjgunjqlimjkfnqcqnajmebeddqsgl');
