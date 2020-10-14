@@ -28,6 +28,8 @@ Want to try an environment that simulates a real interview ? [Coderpad](https://
 | Sorting            | Merge Sort          | https://www.geeksforgeeks.org/merge-sort/ |
 | Sorting            | Heap Sort           | https://www.geeksforgeeks.org/heap-sort/ |
 | Sorting            | Tim Sort            | https://www.geeksforgeeks.org/timsort/ |
+| Algorithmic Design | Backtracking        | https://www.geeksforgeeks.org/backtracking-algorithms/ |
+| Algorithmic Design | Divide and Conquer  | https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/ |
 | Algorithmic Design | Dynamic Programming | https://www.geeksforgeeks.org/dynamic-programming/ |
 | Algorithmic Design | Greedy Algorithms   | https://www.geeksforgeeks.org/greedy-algorithms/ |
 | Algorithmic Design | Recursion           | https://www.geeksforgeeks.org/recursion/ |
@@ -35,7 +37,7 @@ Want to try an environment that simulates a real interview ? [Coderpad](https://
 | Data Structure     | Stack               | https://www.geeksforgeeks.org/stack-data-structure/ |
 | Data Structure     | Queue               | https://www.geeksforgeeks.org/queue-data-structure/ |
 | Data Structure     | LinkedList          | https://www.geeksforgeeks.org/data-structures/linked-list/ |
-| Data Structure     | Tree                |  |
+| Data Structure     | Tree                | https://www.geeksforgeeks.org/binary-tree-data-structure/ |
 | Data Structure     | Binary Tree         | https://www.geeksforgeeks.org/binary-tree-data-structure/ |
 | Data Structure     | Binary Search Tree  | https://www.geeksforgeeks.org/binary-search-tree-data-structure/ |
 | Data Structure     | AVL Tree            | https://www.geeksforgeeks.org/avl-tree-set-1-insertion/ |
