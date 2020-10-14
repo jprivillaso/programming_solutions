@@ -37,7 +37,7 @@ Want to try an environment that simulates a real interview ? [Coderpad](https://
 | Data Structure     | Stack               | https://www.geeksforgeeks.org/stack-data-structure/ |
 | Data Structure     | Queue               | https://www.geeksforgeeks.org/queue-data-structure/ |
 | Data Structure     | LinkedList          | https://www.geeksforgeeks.org/data-structures/linked-list/ |
-| Data Structure     | Tree                |  |
+| Data Structure     | Tree                | https://www.geeksforgeeks.org/binary-tree-data-structure/ |
 | Data Structure     | Binary Tree         | https://www.geeksforgeeks.org/binary-tree-data-structure/ |
 | Data Structure     | Binary Search Tree  | https://www.geeksforgeeks.org/binary-search-tree-data-structure/ |
 | Data Structure     | AVL Tree            | https://www.geeksforgeeks.org/avl-tree-set-1-insertion/ |
